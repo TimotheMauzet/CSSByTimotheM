@@ -4,5 +4,5 @@ Un dépôt github qui regroupe différent fichier css de ressource que j'ai beso
 
 - [x] Color Material Design
    - [x] Color Palette
-- [] Color MDB
+- [ ] Color MDB
    - [x] Color Palette en rgba
