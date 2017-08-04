@@ -7,10 +7,14 @@ Un dépôt github qui regroupe différent fichier css de ressource que j'ai beso
 - [x] Color MDB
    - [x] Color Palette en rgba
    - [x] Hover effects
+
+---   
    
 ## Aide pour les couleurs
 
 Pour voir un rendu des couleurs, veuillez regarder les images dans le dossier `img/`
+
+---
 
 ## Aide pour les effets de hover
 
@@ -21,8 +25,10 @@ Pour voir un rendu des couleurs, veuillez regarder les images dans le dossier `i
 5. Ajouter la class `.mask` pour créer l'overlay
 6. Si vous voulez ajouté du texte, vous devez utilisé la class `.flex-center` pour centrer celui-ci, et `.white-text` pour que votre texte est un plus grand contraste et soit plus visible.
 
----
-
 Si vous voulez utilisé un effet de zoom, veuillez suivre les instruction suivante et ajouter la class `.hm-zoom`
 
 Pour utilisé un effet shadow, vous devez ajouté la class `.hoverable`
+
+---
+
+License MIT
