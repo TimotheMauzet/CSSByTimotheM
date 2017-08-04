@@ -4,10 +4,13 @@ Un dépôt github qui regroupe différent fichier css de ressource que j'ai beso
 
 - [x] Color Material Design
    - [x] Color Palette
-- [ ] Color MDB
+- [x] Color MDB
    - [x] Color Palette en rgba
    - [x] Hover effects
+   
+## Aide pour les couleurs
 
+Pour voir un rendu des couleurs, veuillez regarder les images dans le dossier `img/`
 
 ## Aide pour les effets de hover
 
